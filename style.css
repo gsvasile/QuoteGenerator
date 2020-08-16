@@ -18,6 +18,24 @@ body {
   justify-content: center;
 }
 
+.navbar {
+  padding: 10px 50px;
+  background-color: rgba(255, 248, 220, 0.8);
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  font-size: 1rem;
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.6);
+}
+
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+}
+
 .quote-container {
   width: auto;
   max-width: 900px;
