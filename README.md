@@ -19,4 +19,5 @@ See the project in action [here](https://itsgabeyo.github.io/QuoteGenerator/).
   This gets around a CORS origin error and a too many requests error when pulling a quote from an API.
 
 • This project is from [Zero to Mastery: Javascript Web Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects).
-  .
+
+• Some items for the top navigtaion bar and the Elon Musk quote were taken from [unachoza's GitHub](https://github.com/unachoza/quote-generator)
