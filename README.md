@@ -20,4 +20,4 @@ See the project in action [here](https://itsgabeyo.github.io/QuoteGenerator/).
 
 • This project is from [Zero to Mastery: Javascript Web Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects).
 
-• Some items for the top navigtaion bar and the Elon Musk quote were taken from [unachoza's GitHub](https://github.com/unachoza/quote-generator)
+• Some items for the top navigtaion bar and the Elon Musk quote generator were taken from [unachoza's GitHub](https://github.com/unachoza/quote-generator)
