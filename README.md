@@ -4,7 +4,7 @@ There is also a button that will allow the quote to be shared through Twitter.
 This A simple project to get familiar with some web development paradigms with JavaScript.
 
 # Live Project
-See the project in action [here](https://itsgabeyo.github.io/QuoteGenerator/).
+See the project in action [here](https://gsvasile.github.io/QuoteGenerator/).
 
 # Online Tools
 - The quotes are pulled from the [Forismatic](https://forismatic.com/en/api/) API.
